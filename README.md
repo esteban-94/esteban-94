@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on me  f
+- 🔭 I’m currently working on me  
 <!--
 **esteban-94/esteban-94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
